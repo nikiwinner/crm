@@ -1,0 +1,7 @@
+{
+    "workbench.tree.indent": 24,
+    "explorer.compactFolders": false,
+    "files.exclude": {
+      "**/__pycache__": true
+    }
+  }
