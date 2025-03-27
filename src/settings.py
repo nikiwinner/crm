@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'debug_toolbar',
 
     'src.app.tech',
+    'src.app.clients',
 ]
 
 MIDDLEWARE = [
